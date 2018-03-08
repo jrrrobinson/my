@@ -10,7 +10,7 @@ This was a very, very fun project to build as it really takes the fundamentals o
 
 I completed this project in less than 5 hours, which is lightning fast, all things considered. Had I attempted to build a project like this using HTML, CSS, and JS alone, it would have taken me much more time to complete it. For anything related to UI, I now know which software I would want to use to create it.
 
-As a result of this project, I also became more familiar with the BootStrap and JQuery libraries, both of which were repsonible for giving this App a high "sleek" feel to it. I am also a huge advocate of the "Linking" feature which reduces load times significantly when navigating through the different pages.
+As a result of this project, I also became more familiar with the BootStrap and JQuery libraries, both of which were responsible for giving this App a high "sleek" feel to it. I am also a huge advocate of the "Linking" feature which reduces load times significantly when navigating through the different pages.
 
 The final grade that I achieved on this project was an A+.
 
